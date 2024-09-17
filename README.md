@@ -24,6 +24,6 @@ Provide insights into the effectiveness of advertising campaigns based on voter 
 
 Python, Pandas, NumPy for data manipulation and analysis. Plotly and Matplotlib for data visualization. Jupyter Notebooks for interactive analysis and presentation.
 
-Conclusion
+Conclusion:
 
 This project provides valuable insights into the dynamics of election advertising during the 2024 Indian elections. By analyzing spending patterns, geographical focus, and voter engagement metrics, the analysis sheds light on the strategies and effectiveness of political parties' advertising efforts.
